@@ -1,3 +1,4 @@
+import os
 
 class Path:
     def __init__(self, download, exe_des, file_des, ext_list):
